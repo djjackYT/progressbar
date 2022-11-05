@@ -21,7 +21,7 @@ let new_degrees = 0;
 let time = 0;
 let color = "#eb5757";
 let color2 = "#ffffff"
-let bgcolor = "rgba(153, 149, 149, 0.35)";
+let bgcolor = "rgba(227, 227, 227)";
 let bgcolor2 = "#f63737";
 let animation_loop;
 let animation_loop_full;
