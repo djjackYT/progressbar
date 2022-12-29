@@ -1,5 +1,5 @@
 # progressbar
-This is a Standalone Nopixel 3.5 Inspired circular progressbar. 
+This is a Standalone Nopixel 3.5 Inspired circular progressbar. DONT USE THIS YET. IT IS A WIP
 
 # Dependencies
 qb-core: https://github.com/qbcore-framework/qb-core
